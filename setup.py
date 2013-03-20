@@ -16,7 +16,7 @@ setup(name='django-adaptors',
       packages=['adaptor'],
       install_requires=[
           'lxml>=2.3.4',
-          'Django>=1.2.1',
+          'Django>=1.2',
       ],
       classifiers=[
         "Development Status :: 3 - Alpha",
